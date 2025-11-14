@@ -1,0 +1,162 @@
+[
+  {
+    "title": "凹凸工坊",
+    "url": "https://www.autohanding.com",
+    "description": "免费的在线AI手写模拟器，能将电子文档快速转换为逼真的手写稿图片，支持多种字体和纸张背景选择"
+  },
+  {
+    "title": "iFixit",
+    "url": "https://www.ifixit.com",
+    "description": "知名的DIY维修指南网站，提供各种电子产品和设备的维修教程、拆解指南和零件销售"
+  },
+  {
+    "title": "RAWGraphs",
+    "url": "https://www.rawgraphs.io",
+    "description": "开源的数据可视化工具，支持多种图表类型，帮助用户将数据转换为直观的可视化图表"
+  },
+  {
+    "title": "Skyline Conference",
+    "url": "https://skylineconference.org",
+    "description": "体育会议官方网站，提供赛事信息、成绩、排名等体育相关内容"
+  },
+  {
+    "title": "考试酷",
+    "url": "https://www.examcoo.com",
+    "description": "永久免费的在线考试系统，提供海量题库资源和在线考试功能，涵盖各类职业资格考试"
+  },
+  {
+    "title": "国家高等教育智慧教育平台",
+    "url": "https://higher.smartedu.cn",
+    "description": "教育部主导的国家级在线开放课程平台，汇聚全国高校优质课程资源"
+  },
+  {
+    "title": "国家智慧教育平台",
+    "url": "https://www.zxx.edu.cn",
+    "description": "教育部主办的全国性智慧教育平台，涵盖基础教育、职业教育、高等教育等各个学段"
+  },
+  {
+    "title": "BdayRecap",
+    "url": "https://bdayrecap.com",
+    "description": "查看出生当天历史新闻的网站，基于纽约时报档案数据，展现出生当天的世界大事"
+  },
+  {
+    "title": "ChinaTextbook",
+    "url": "https://github.com/TapXWorld/ChinaTextbook",
+    "description": "GitHub上的开源项目，免费提供国内小学到大学的PDF教材资源，支持多版本教材下载"
+  },
+  {
+    "title": "DrivenListen",
+    "url": "https://drivenlisten.com",
+    "description": "在线虚拟旅行网站，结合高清街景视频和本地广播音频，让用户足不出户体验世界各地风情"
+  },
+  {
+    "title": "iLovePDF",
+    "url": "https://www.ilovepdf.com",
+    "description": "全面的PDF处理工具，支持合并、拆分、转换格式、压缩等操作，完全免费使用"
+  },
+  {
+    "title": "这b班上得值不值",
+    "url": "https://worth-calculator.vercel.app",
+    "description": "工作性价比计算器，通过输入薪资、工作时长等数据，评估工作的性价比和满意度"
+  },
+  {
+    "title": "大盘云图",
+    "url": "https://52etf.site",
+    "description": "A股市场热力图工具，直观展示股票涨跌情况，帮助投资者快速了解市场动态"
+  },
+  {
+    "title": "HullQin联机桌游",
+    "url": "https://game.hullqin.cn",
+    "description": "在线联机桌游平台，提供UNO、斗地主、五子棋等多人联机游戏，无需下载即可游玩"
+  },
+  {
+    "title": "懒人Excel",
+    "url": "https://www.lanrenexcel.com",
+    "description": "Excel学习平台，提供函数公式、操作技巧、数据分析等教程，适合各水平用户学习"
+  },
+  {
+    "title": "码上",
+    "url": "https://ucloud.bupt.edu.cn/ezcoding",
+    "description": "北邮开发的编程教学应用平台，基于大模型提供智能代码纠错和编程辅导功能"
+  },
+  {
+    "title": "高速公路云实时监控",
+    "url": "www.quanzhimao.com",
+    "description": "全国高速公路实时监控系统，提供各省份高速路况信息，帮助用户规划出行路线"
+  },
+  {
+    "title": "千亿像素看中国",
+    "url": "http://bigpixel.cn",
+    "description": "超高像素全景图片网站，展示中国各大城市的千亿像素级全景图像，可放大观看细节"
+  },
+  {
+    "title": "Convertio",
+    "url": "https://convertio.co",
+    "description": "在线文件格式转换工具，支持超过300种文件格式的相互转换，操作简单快速"
+  },
+  {
+    "title": "Photopea",
+    "url": "https://www.photopea.com",
+    "description": "免费在线图片编辑器，功能类似Photoshop，支持PSD等多种格式，无需安装即可使用"
+  },
+  {
+    "title": "33字幕图",
+    "url": "https://zmt.agilestudio.cn",
+    "description": "电影台词字幕拼图制作工具，可根据台词搜索电影片段并生成字幕拼图，适合社交媒体分享"
+  },
+  {
+    "title": "SnapAny",
+    "url": "https://snapany.com",
+    "description": "在线视频图片下载工具，支持从1000多个平台解析下载视频和图片内容"
+  },
+  {
+    "title": "ScribeHow",
+    "url": "https://scribehow.com",
+    "description": "AI驱动的流程文档生成工具，自动记录操作步骤并生成详细的操作指南和截图说明"
+  },
+  {
+    "title": "书签地球",
+    "url": "https://www.bookmarkearth.cn",
+    "description": "浏览器书签共享平台，用户可以分享和发现优质网站书签，构建互联网资源导航社区"
+  },
+  {
+    "title": "荣耀萤火开放素材库",
+    "url": "https://pvp.icreate.qq.com",
+    "description": "王者荣耀官方素材平台，提供英雄海报、游戏CG、音效等2万多种官方素材下载"
+  },
+  {
+    "title": "TMailor",
+    "url": "https://tmailor.com",
+    "description": "临时邮箱生成器，提供一次性邮箱地址，保护真实邮箱免受垃圾邮件骚扰"
+  },
+  {
+    "title": "Instructables",
+    "url": "https://www.instructables.com",
+    "description": "DIY制作教程分享社区，用户可分享各种手工制作、烹饪、电子等项目教程"
+  },
+  {
+    "title": "食用手册",
+    "url": "https://cook.yunyoujun.cn",
+    "description": "智能菜谱推荐工具，根据现有食材和厨具推荐合适的菜谱，配有视频教程"
+  },
+  {
+    "title": "Canva可画",
+    "url": "https://www.canva.cn",
+    "description": "在线设计平台，提供丰富的模板和素材，无需专业技能即可制作精美的设计作品"
+  },
+  {
+    "title": "PaperMe",
+    "url": "https://paperme.toolooz.com",
+    "description": "自定义打印纸生成器，可制作各种格式的笔记本、草稿纸、乐谱纸等，支持PDF导出"
+  },
+  {
+    "title": "Freesound",
+    "url": "https://freesound.org",
+    "description": "协作式音效分享平台，提供超过50万种Creative Commons授权的音频素材"
+  },
+  {
+    "title": "MuscleWiki",
+    "url": "https://musclewiki.com",
+    "description": "健身指导网站，通过交互式身体地图精准定位肌肉群，提供详细的锻炼指导"
+  }
+]

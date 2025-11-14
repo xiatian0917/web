@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>网站分享平台 - 可爱版</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>🌟 网站收藏夹 🌟</h1>
+        <div class="theme-toggle">
+            <button id="themeToggle" aria-label="切换主题">🌙</button>
+        </div>
+    </header>
+    
+    <main>
+        <div class="search-container">
+            <input type="text" id="searchInput" placeholder="🔍 搜索网站标题或描述...">
+            <div class="stats-container">
+                <span id="totalWebsites">总计: 0 个网站</span>
+            </div>
+        </div>
+        
+        <div class="categories-container" id="categoriesContainer">
+            <!-- 分类选项将通过JavaScript动态生成 -->
+        </div>
+        
+        <div class="websites-container" id="websitesContainer">
+            <!-- 网站卡片将通过JavaScript动态生成 -->
+        </div>
+    </main>
+    
+    <script src="script.js"></script>
+</body>
+</html>
